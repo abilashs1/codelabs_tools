@@ -1,8 +1,8 @@
 {
   "title": "PSDK Codelabs",
   "description": "PSDK Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a point of sale applciation which can integrate with a Verifone Payment terminal",
-  "tags": [],
-  "categories": ["psdk"],
+  "tags": ["psdk", "psdk-slim", "psdk-ondevice"],
+  "categories": ["psdk", "psdk-slim", "psdk-ondevice"],
   "exclude": [
     "^lang-.*"
   ],

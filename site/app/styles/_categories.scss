@@ -76,6 +76,12 @@ $color-weave-green: #0f9d58;
 
 /* Actual CSS classes */
 
+@include codelab-card(['psdk'], $color-google-blue, 'tensorflow.svg');
+
+@include codelab-card(['psdk-slim'], $color-android-auto-blue, 'tensorflow.svg');
+
+@include codelab-card(['psdk-ondevice'], $color-analytics-orange, 'tensorflow.svg');
+
 @include codelab-card(['about'],
   $color-google-blue, 'google-g.svg');
 
